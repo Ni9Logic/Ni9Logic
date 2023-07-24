@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Hassan](https://github.com/ni9logic)
 
-<!--
-**Ni9Logic/Ni9Logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a tech enthusiast and software developer, passionate about building cool stuff and exploring new technologies. I enjoy creating web applications, mobile apps, and diving into data analysis. My favorite languages are ReactJS and Python, but I'm always eager to learn more!
 
-Here are some ideas to get you started:
+## 🚀 Top Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below you'll find an overview of the top languages I've been using across my repositories:
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ni9logic&layout=compact&hide=html,css&langs_count=6)](https://github.com/ni9logic)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ni9logic&show_icons=true&count_private=true&hide=prs,issues,contribs)
+
+## 🛠️ Technologies and Tools
+
+Here are some of the technologies and tools I frequently work with:
+
+- Programming Languages: JavaScript, Python, Java, C++, C#, Rust, React
+- Web Development: React, Node.js, Express, Next-JS
+- Databases: MongoDB, PostgreSQL, MySQL
+- Data Analysis: Pandas, NumPy, Jupyter
+- Version Control: Git
+
+## 📝 Get in Touch
+
+Feel free to explore my repositories to see what I've been working on. If you have any questions, want to collaborate on a project, or just want to say hi, feel free to reach out. You can contact me through [email](mailto:rehmanhassan117@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hassan-i-am/).
+
+Happy coding! 🚀
