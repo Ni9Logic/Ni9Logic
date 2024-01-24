@@ -22,6 +22,14 @@ Here are some of the technologies and tools I frequently work with:
 - Data Analysis: Pandas, NumPy, Jupyter
 - Version Control: Git
 
+## 🚀 Projects
+
+Here are some of the projects I have worked on.
+  - A Restaurant Page [AKR Restaurant](https://www.akrrestaurant.com)
+  - File Management System [Royal Honda](https://royalhonda.vercel.app)
+  - Grades Checker [In Progress]
+  - Assignments Solver [In Progress]
+
 ## 📝 Get in Touch
 
 Feel free to explore my repositories to see what I've been working on. If you have any questions, want to collaborate on a project, or just want to say hi, feel free to reach out. You can contact me through [email](mailto:rehmanhassan117@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hassan-i-am/).
