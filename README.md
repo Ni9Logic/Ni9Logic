@@ -16,7 +16,7 @@ Below you'll find an overview of the top languages I've been using across my rep
 
 Here are some of the technologies and tools I frequently work with:
 
-- Programming Languages: JavaScript, Python, Java, C++, C#, Rust, React
+- Programming Languages: JavaScript, Python, Java, C++, C#, Rust, React, Angular JS, Laravel, PHP, Typescript
 - Web Development: React, Node.js, Express, Next-JS
 - Databases: MongoDB, PostgreSQL, MySQL
 - Data Analysis: Pandas, NumPy, Jupyter
