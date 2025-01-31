@@ -26,6 +26,7 @@ Here are some of the technologies and tools I frequently work with:
 
 Here are some of the projects I have worked on.
   - ATV And Buggy [Dubai Tourist Project](https://atvandbuggy.com)
+  - Royal Honda [Car Rental Project](https://royalhonda.vercel.app)
   - A Restaurant Page [AKR Restaurant](https://www.akrrestaurant.com)
   - File Management System [Royal Honda](https://royalhonda.vercel.app)
   - Grades Checker [In Progress]
